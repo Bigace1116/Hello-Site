@@ -1,2 +1,2 @@
 # Hello-Site
-Testing
+Testing and learning how to use GitHub
