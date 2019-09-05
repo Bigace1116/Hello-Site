@@ -1,0 +1,56 @@
+ <header>
+    <div class="logo">Animals</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Pets</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="clearfix"></div>
+  </header>
+  
+    <div class="animals">
+      <body>
+      <main>
+        <section class="section-area">
+          
+          <h1>Dogs</h1>
+          <img src="../Image/Dogs.jpg" alt="" />
+          <div class="dog">
+            
+          </div>
+          <p>
+            Dog are animals that were turned into house pets. Some say they are
+            mans best friend. There are all kind of breeds and types. Depending
+            on certain breeds and person needs some are used for work purposes.
+          </p>
+          <br />
+          <h1>Breeds</h1>
+          The breeds of dog is one of the biggest features for pet owners , from
+          German Sheperds to Poodles most owners fall in love with a certain
+          type. Which is also the biggest factor for selecting a certain breed
+          for work purposes. Service dogs have the widest selection range.
+        </section>
+        <hr />
+        <section class="section-area">
+          <h1>Cats</h1>
+          <div class="Cats">
+            <img src="#" alt="Cat" />
+          </div>
+          <p>
+            Dog are animals that were turned into house pets. Some say they are
+            mans best friend. There are all kind of breeds and types. Depending
+            on certain breeds and person needs some are used for work purposes.
+          </p>
+          <br />
+          <h1>Breeds</h1>
+          The breeds of dog is one of the biggest features for pet owners, from
+          German Sheperds to Poodles most owners fall in love with a certain
+          type. Which is also the biggest factor for selecting a certain breed
+          for work purposes. Service dogs have the widest selection range.
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
